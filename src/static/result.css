@@ -1,0 +1,14 @@
+.rs-card-header {
+    padding: 10px;
+    margin: auto;
+    background-color: #be0f58;
+    color: #fff;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.rs-page-active {
+    background: #187FD3;
+    color: #fff;
+}

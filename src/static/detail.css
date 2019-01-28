@@ -1,0 +1,34 @@
+.dt-font {
+    color: #fff;
+}
+
+.dt-top-header {
+    margin: auto;
+    background-color: #187FD3;
+    text-align: center;
+}
+
+.dt-back {
+    color: #fff;
+}
+
+.dt-header-title {
+    font-size: 2rem;
+}
+
+@media(max-width: 576px) {
+    .dt-header-title {
+        font-size: 1.4rem;
+        margin-right: auto;
+    }
+
+    .iconSmall {
+        margin-right: auto;
+    }
+}
+
+@media(max-width: 768px) {
+    .dt-header-title {
+        font-size: 1.6rem;
+    }
+}
